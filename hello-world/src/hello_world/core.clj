@@ -4,3 +4,5 @@
 (defn -main
   [& args]
   (println "Hello, World!"))
+
+(+ 1 2)
